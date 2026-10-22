@@ -1,0 +1,20 @@
+body{
+ text-align: center;
+    background-image: url('https://www.clarin.com/2026/02/28/QVbx-1PH5_2000x1500__1.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+font-family: 'Courier New', Courier, monospace ;
+}
+button{
+    background-color: #0000AA;
+    color: rgb(255, 255, 255);
+    margin: 7px;
+    height: 30px;
+    left: 10px;
+    border: 2px solid;
+    border-color: #0000AA;
+    font-family: 'Courier New', Courier, monospace;
+      box-shadow: 2px 2px black;
+      }

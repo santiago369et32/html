@@ -1,0 +1,83 @@
+body{
+ text-align: center;
+    background-image: url('https://www.clarin.com/2026/02/28/QVbx-1PH5_2000x1500__1.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+font-family: 'Courier New', Courier, monospace ;
+}
+button{
+    background-color: #0000AA;
+    color: rgb(255, 255, 255);
+    margin: 7px;
+    height: 30px;
+    left: 10px;
+    border: 3px solid;
+    border-color: #0000AA;
+    font-family: 'Courier New', Courier, monospace;
+       box-shadow: 2px 2px black;
+}
+.text{
+    text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+    background-color: #C0C0C0;
+}
+p{
+  text-align: left;
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: rgb(0, 0, 0);
+}
+h1{
+  text-decoration: underline;
+  font-family: 'Courier New', Courier, monospace;
+}
+.box{
+background-color:  rgb(194, 194, 194);
+  font-family: 'Courier New', Courier, monospace;
+}
+.box2{
+    background-color:  rgb(194, 194, 194);;
+    font-family: 'Courier New', Courier, monospace;
+  }
+.box3{
+    background-color:  rgb(194, 194, 194);;
+    font-family: 'Courier New', Courier, monospace;
+  }
+.box4{
+    background-color:  rgb(194, 194, 194);;
+    font-family: 'Courier New', Courier, monospace;
+  }
+.box5{
+    background-color:  rgb(194, 194, 194);;
+    font-family: 'Courier New', Courier, monospace;
+  }
+.box6{
+    background-color:  rgb(194, 194, 194);;
+    font-family: 'Courier New', Courier, monospace;
+  }
+.box7{
+    background-color:  rgb(194, 194, 194);;
+    font-family: 'Courier New', Courier, monospace;
+  }
+.box8{
+    background-color:  rgb(194, 194, 194);;
+    font-family: 'Courier New', Courier, monospace;
+  }
+.box9{
+    background-color:  rgb(194, 194, 194);;
+    font-family: 'Courier New', Courier, monospace;
+  }
+.ult{
+    font-family: 'Courier New', Courier, monospace;
+  }
+.card{
+  margin: auto;
+  left: 50%;
+  width: 50%;
+  background-color: #C0C0C0;
+  border: 3px solid;
+  border-color: #FFFF;
+  box-shadow: 12px 12px black;
+}
